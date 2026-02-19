@@ -1,4 +1,4 @@
-# Node.js Practice
+# Node.js Fundamentals
 
 Repositório dedicado a exercícios práticos em Node.js, com foco nos conceitos básicos do ambiente backend.
 
